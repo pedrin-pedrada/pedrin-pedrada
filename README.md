@@ -1,9 +1,10 @@
 ## Sobre mim
 
-- 🤔 Sempre em busca de novas oportunidades de crecimento.
-- 🎓 MBA Arquitetura de Foftware FullCycle em andamento. Graduado em Análise e Desenvolvimento de Sistemas.
-- 💼 Trabalhando com Python e PHP, com foco em integrações, automações e desenvolvimento de softwares personalizados.
-- 🌱 Aprendendo mais sobre Dockerização, Django e React.
+- 🚀 Evoluindo a cada dia e curtindo muito cada passo.
+- 🎓 MBA - Arquitetura de Foftware FullCycle em andamento.
+- 🖥️ Graduado em Análise e Desenvolvimento de Sistemas.
+- 💼 Trabalhando com Python e PHP, para desenvolvimento de softwares personalizados.
+- 🌱 Aprendendo mais sobre Dockerização, Django, Laravel e React.
 
 ## Minhas Skills
 
